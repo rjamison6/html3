@@ -2,14 +2,14 @@
 /* CSS Document */
 
 body{
-	background: url("images/logo2.jpg") repeat;
-	background-repeat: repeat;
-    background-size: 50%;
+	background: url("images/flag3.jpg") no-repeat;
+	background-repeat: no-repeat;
+    background-size: 80%;
 	
 }
 main{
 	width:900px;
-	margin:0;
+	margin:0
 	
 		
 }
