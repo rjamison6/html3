@@ -2,7 +2,9 @@
 /* CSS Document */
 
 body{
-	
+	background: url("images/logo2.jpg") repeat;
+	background-repeat: repeat;
+    background-size: 50%;
 	
 }
 main{
