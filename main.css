@@ -4,9 +4,7 @@
 body{
 	background: url("images/flag3.jpg") no-repeat;
 	background-repeat: no-repeat;
-    background-size: 80%;
-	
-	
+    background-size: 100%;
 }
 main{
 	width:900px;
@@ -19,7 +17,7 @@ header{
 	
 }
 header h1{
-	font-size: 90px;
+	font-size: 70px;
 	font-family: jaf-herb, serif;
     font-weight: 400;
     font-style: normal;
