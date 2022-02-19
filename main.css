@@ -4,7 +4,8 @@
 body{
 	background: url("images/flag3.jpg") no-repeat;
 	background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
+	
 }
 main{
 	width:900px;
@@ -14,6 +15,8 @@ main{
 }
 header{
 	height:100px;
+	color:hotpink;
+	
 	
 }
 header h1{
@@ -44,27 +47,40 @@ nav li{
 }
 
 .right{
-	width: 800px;
-	float:right;
-	margin-top:30px;
+	width: 200px;
+	float: right;
+	align-content: 10px;
+	margin-top: 30px;
 	margin-bottom: 30px;
+	padding-right: 600px;
 }
 .clearfix {
   overflow: auto;
 }
-.left{
+.left1{
 	width: 300px; 
 	float:left;
-	margin-left: 30px;
+	padding-left: 30px;
 	margin-top:30px;
 	font-family: gautreaux, sans-serif;
     font-weight: 700;
     font-style: normal;
 	font-size: 30px;
-	color:red;
+	color:cadetblue;
 	
 }
-
+.left{
+    padding-top: 30px;
+	width: 300px; 
+	clear: left;
+	margin-left: 30px;
+	border: dashed; 
+	font-family: gautreaux, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 30px;
+	color: red;
+}
 
 footer{
 	font-size: 30px;
