@@ -26,6 +26,7 @@ header h1{
     font-style: normal;
 	text-align: center;
 	color:darkred;
+	background-color:dodgerblue;
 }
 nav{
 	width:100%;
@@ -66,7 +67,7 @@ nav li{
     font-weight: 700;
     font-style: normal;
 	font-size: 30px;
-	color:cadetblue;
+	color:darkslategrey;
 	
 }
 .left{
@@ -79,7 +80,7 @@ nav li{
     font-weight: 700;
     font-style: normal;
 	font-size: 30px;
-	color: red;
+	color: black;
 }
 
 footer{
