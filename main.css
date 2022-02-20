@@ -53,7 +53,7 @@ nav li{
 	align-content: 10px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	padding-right: 600px;
+	padding-right: 450px;
 }
 .clearfix {
   overflow: auto;
@@ -61,8 +61,9 @@ nav li{
 .left1{
 	width: 300px; 
 	float:left;
-	padding-left: 30px;
 	margin-top:30px;
+	padding-bottom: 30px;
+	padding-left: 100px;
 	font-family: gautreaux, sans-serif;
     font-weight: 700;
     font-style: normal;
@@ -71,11 +72,11 @@ nav li{
 	
 }
 .left{
+	float:left;
     padding-top: 30px;
+	padding-left: 100px;
 	width: 300px; 
 	clear: left;
-	margin-left: 30px;
-	border: dashed; 
 	font-family: gautreaux, sans-serif;
     font-weight: 700;
     font-style: normal;
